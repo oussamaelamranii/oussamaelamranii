@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on open-source projects and innovative web development ideas.
 - 📫 How to reach me: oussama.elamrani1111@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving challenging coding problems and experimenting with new technologies!
+
 
 
 <!---
