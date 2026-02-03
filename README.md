@@ -60,7 +60,7 @@
   <br/><br/>
   
   <p><b>Data, Tools & Monitoring</b></p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,git,grafana,prometheus,idea,visuelstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,git,grafana,prometheus&theme=dark" />
 </div>
 
 <br/>
@@ -89,5 +89,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,100:E94057&height=100&section=footer&fontColor=ffffff&fontSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,100:E94057&height=200&section=footer&fontColor=ffffff&fontSize=20" />
 </div>
