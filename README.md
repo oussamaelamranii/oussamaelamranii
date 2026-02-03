@@ -60,7 +60,7 @@
   <br/><br/>
   
   <p><b>Data, Tools & Monitoring</b></p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,git,grafana,prometheus,idea,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,git,grafana,prometheus,idea,visuelstudio&theme=dark" />
 </div>
 
 <br/>
