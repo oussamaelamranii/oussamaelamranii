@@ -1,5 +1,3 @@
-hey buddy can you please improve this code of the readme file :
-can you please improve this readme file code :
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,100:E94057&height=250&section=header&text=Oussama%20El%20Amranii&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20DevOps%20Enthusiast&descAlign=50&descAlignY=55&descSize=25&fontColor=ffffff" />
 </div>
