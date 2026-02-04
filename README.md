@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,100:E94057&height=250&section=header&text=Oussama%20El%20Amranii&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20DevOps%20Enthusiast&descAlign=50&descAlignY=55&descSize=25&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,100:E94057&height=250&section=header&text=Oussama%20El%20Amranii&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20DevOps%20Enthusiast&descAlign=50&descAlignY=55&descSize=25&fontColor=ffffff" alt="Header" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E94057&background=00000000&vCenter=true&width=435&lines=Architecting+Scalable+Solutions;.Net+%26+Angular+Specialist;Cloud+%26+DevOps+Practitioner;Building+the+Future+of+Web" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E94057&background=00000000&vCenter=true&width=435&lines=Architecting+Scalable+Solutions;.Net+%26+Angular+Specialist;Cloud+%26+DevOps+Practitioner;Building+the+Future+of+Web" alt="Typing SVG" />
   </a>
   <br/>
   
@@ -85,5 +85,5 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,100:E94057&height=150&section=footer&fontColor=ffffff&fontSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,100:E94057&height=150&section=footer&fontColor=ffffff&fontSize=20" alt="Footer" />
 </div>
